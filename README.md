@@ -1,14 +1,15 @@
-#  Online Restaurant System
+#  Online Restaurant Management System
 
 
-“The objective of this online restaurant project is to design a database to centrally  handle the details of all the customers and to provide access to this information  with an easy-to-use Graphic user interface that can be accessed by any device  with basic Java (swing ) rendering capabilities".
+“The objective of this online restaurant management system is to design a database to centrally  handle the details of all the customers and to provide access to this information  with an easy-to-use Graphic user interface that can be accessed by any device  with basic Java (swing ) rendering capabilities".
 
 ### Problem Statement:
 
-Our proposed system is an online Restaurant system that enables ease for customers. It overcomes the disadvantages of the traditional queueing system. Our proposed system is 
-a medium to order hassle-free online food from restaurants and mess service. This system improves the method of taking orders from customers. The online food ordering 
-system sets up a food menu online and customers can easily place the order as per their wish. Also with a food menu, customers can easily track their orders. For more secure 
-ordering separate accounts are maintained for each user by providing them an ID and a password. 
+The lack of an efficient and integrated Online Restaurant Management System results in operational inefficiencies, order processing delays, inventory inaccuracies, and limited customer engagement, hindering the restaurant's ability to deliver seamless services and maximize revenue opportunities.
+
+### Solution:
+
+Our proposed system is an Online Restaurant Management System that enables ease for customers. It overcomes the disadvantages of the traditional queueing system. Our proposed system is a medium to order hassle-free online food from restaurants and mess service. This system improves the method of taking orders from customers. The online food ordering system sets up a food menu online and customers can easily place the order as per their wish. Also with a food menu, customers can easily track their orders. For more secure ordering separate accounts are maintained for each user by providing them an ID and a password. 
 
 #### Key Features :
 
