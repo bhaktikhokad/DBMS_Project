@@ -12,7 +12,6 @@ ordering separate accounts are maintained for each user by providing them an ID 
 
 #### Key Features :
 
-
 1.An online food ordering system is software that lets restaurants, coffee shops, or bars accept orders online. It typically allows customers to choose and pay for food, then alerts 
 the kitchen when an order is made. This happens without contact between staff and customers.
 
@@ -34,3 +33,9 @@ clicking on OLD USER the login page of user opens up.
 9.We have also made an exit button which terminates our entire project using the simple function of System.exit(0).
 
 10.We used a wide variations of colours and font which makes our project more user interactive.
+
+## Entity Relation Diagram:
+
+![ERD diagram](https://github.com/Bhakti-khokad/DBMS_Project/assets/114825144/ef1ac2e5-3a49-44fa-a8d4-1bfd0dba0eed)
+
+
